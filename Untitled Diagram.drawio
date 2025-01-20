@@ -13,7 +13,7 @@
         <mxCell id="218ae93e1282097f-69" value="count number of routes connecting all amenities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;comic=0;fontFamily=Verdana;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="1014" y="930" width="90" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="6257edae8c83ed4a-9" value="Optimize future outlook" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="6257edae8c83ed4a-9" value="Ensure Long-Term Property Value" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="642" y="210" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6257edae8c83ed4a-21" value="Future government development plans" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" parent="1" vertex="1">
@@ -22,7 +22,7 @@
         <mxCell id="6257edae8c83ed4a-12" value="Optimize Location" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="887" y="210" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6257edae8c83ed4a-1" value="Positive Return on HDB Property investment" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="6257edae8c83ed4a-1" value="Maximize Value from HDB Purchase" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1010" y="100" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="218ae93e1282097f-2" value="Minimize Waiting time" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" parent="1" vertex="1">
@@ -31,7 +31,7 @@
         <mxCell id="x4HcTvrEBQ7sZUDVJvWk-5" value="Maximize amenities" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="876" y="320" width="104" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="x4HcTvrEBQ7sZUDVJvWk-7" value="Environmental Factors" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="x4HcTvrEBQ7sZUDVJvWk-7" value="Minimize Environmental Disruptions" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1002" y="320" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x4HcTvrEBQ7sZUDVJvWk-19" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=10;strokeColor=none;" vertex="1" parent="1">
@@ -308,7 +308,7 @@
           <mxGeometry x="538" y="530" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x4HcTvrEBQ7sZUDVJvWk-118" value="5 Room Flat" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="520" width="80" height="50" as="geometry" />
+          <mxGeometry x="440" y="530" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x4HcTvrEBQ7sZUDVJvWk-119" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="x4HcTvrEBQ7sZUDVJvWk-117" target="x4HcTvrEBQ7sZUDVJvWk-115">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -323,7 +323,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x4HcTvrEBQ7sZUDVJvWk-121" value="4 Room Flat" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="520" width="80" height="50" as="geometry" />
+          <mxGeometry x="360" y="530" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x4HcTvrEBQ7sZUDVJvWk-122" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="x4HcTvrEBQ7sZUDVJvWk-121" target="x4HcTvrEBQ7sZUDVJvWk-113">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
