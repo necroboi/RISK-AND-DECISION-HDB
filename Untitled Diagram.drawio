@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="19d8dcba-68ad-dc05-1034-9cf7b2a963f6">
-    <mxGraphModel dx="1356" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2712" dy="1448" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -314,59 +314,59 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-4" value="Maximize Value from HDB Purchase" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2460" y="150" width="200" height="50" as="geometry" />
+          <mxGeometry x="2618" y="128" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-71" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-5" target="KxJncgnTLOfBylVvL6hN-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-5" value="Minimize incurred cost" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2620" y="250" width="200" height="50" as="geometry" />
+          <mxGeometry x="2778" y="228" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-52" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Maximize property value&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2290" y="250" width="183.5" height="50" as="geometry" />
+          <mxGeometry x="2448" y="228" width="183.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-70" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-52" target="KxJncgnTLOfBylVvL6hN-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2192" y="260" as="sourcePoint" />
-            <mxPoint x="2580" y="360" as="targetPoint" />
+            <mxPoint x="2350" y="238" as="sourcePoint" />
+            <mxPoint x="2738" y="338" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-75" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-73" target="KxJncgnTLOfBylVvL6hN-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-73" value="apply for government subsidises" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2540" y="360" width="200" height="50" as="geometry" />
+          <mxGeometry x="2698" y="338" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-76" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-74" target="KxJncgnTLOfBylVvL6hN-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2720" y="290" as="targetPoint" />
+            <mxPoint x="2878" y="268" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-74" value="generate income from property to offset property expenses" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2760" y="360" width="200" height="50" as="geometry" />
+          <mxGeometry x="2918" y="338" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-81" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-79" target="KxJncgnTLOfBylVvL6hN-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-85" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-83" target="KxJncgnTLOfBylVvL6hN-79">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2320" y="450" as="targetPoint" />
+            <mxPoint x="2478" y="428" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-79" value="purchase location with high resale demand in centralised locations" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2140" y="375" width="200" height="50" as="geometry" />
+          <mxGeometry x="2298" y="353" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-86" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-80" target="KxJncgnTLOfBylVvL6hN-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-80" value="Monitor the Urban Redevelopment Authority (URA) Master Plan to identify areas with planned MRT lines, malls, or other government projects." style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2170" y="560" width="271.75" height="80" as="geometry" />
+          <mxGeometry x="2328" y="538" width="271.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-84" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.689;entryY=1.006;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryPerimeter=0;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-83" target="KxJncgnTLOfBylVvL6hN-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-83" value="Minimize depreciation&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2410" y="375" width="104" height="50" as="geometry" />
+          <mxGeometry x="2568" y="353" width="104" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-87" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.589;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-80" target="KxJncgnTLOfBylVvL6hN-79">
           <mxGeometry relative="1" as="geometry" />
@@ -375,31 +375,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-88" value="Ensure HDB has surpassed its&amp;nbsp;Minimum Occupation Period (MOP)" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2710" y="460" width="200" height="50" as="geometry" />
+          <mxGeometry x="2868" y="438" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-92" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-90" target="KxJncgnTLOfBylVvL6hN-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-90" value="Do not buy 1 room flat type" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2810" y="590" width="200" height="50" as="geometry" />
+          <mxGeometry x="2968" y="568" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-98" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-93" target="KxJncgnTLOfBylVvL6hN-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-93" value="Rent out rooms to tenants" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2570" y="590" width="200" height="50" as="geometry" />
+          <mxGeometry x="2728" y="568" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-94" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-93" target="KxJncgnTLOfBylVvL6hN-88">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2740" y="570" as="sourcePoint" />
-            <mxPoint x="2820" y="520" as="targetPoint" />
+            <mxPoint x="2898" y="548" as="sourcePoint" />
+            <mxPoint x="2978" y="498" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-97" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-96" target="KxJncgnTLOfBylVvL6hN-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-96" value="Prioritise maintenance of HDB&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2490" y="480" width="130" height="50" as="geometry" />
+          <mxGeometry x="2648" y="458" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
