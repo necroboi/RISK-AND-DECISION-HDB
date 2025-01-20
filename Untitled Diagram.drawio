@@ -40,9 +40,6 @@
         <mxCell id="x4HcTvrEBQ7sZUDVJvWk-20" value="Invest as soon as possible" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;comic=0;fontFamily=Verdana;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="1296.5" y="870" width="90" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="x4HcTvrEBQ7sZUDVJvWk-21" value="ballot for multiple locations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;comic=0;fontFamily=Verdana;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="1396.5" y="870" width="90" height="25" as="geometry" />
-        </mxCell>
         <mxCell id="x4HcTvrEBQ7sZUDVJvWk-29" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=10;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1112" y="840" width="124" height="130" as="geometry" />
         </mxCell>
@@ -387,28 +384,30 @@
         <mxCell id="KxJncgnTLOfBylVvL6hN-74" value="generate income from property to offset property expenses" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="2760" y="360" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KxJncgnTLOfBylVvL6hN-81" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-79" target="KxJncgnTLOfBylVvL6hN-52">
+        <mxCell id="KxJncgnTLOfBylVvL6hN-81" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-79" target="KxJncgnTLOfBylVvL6hN-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KxJncgnTLOfBylVvL6hN-85" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-79" target="KxJncgnTLOfBylVvL6hN-83">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KxJncgnTLOfBylVvL6hN-85" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-83" target="KxJncgnTLOfBylVvL6hN-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2320" y="450" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-79" value="purchase location with high resale demand in centralised locations" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2330" y="370" width="200" height="50" as="geometry" />
+          <mxGeometry x="2140" y="375" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KxJncgnTLOfBylVvL6hN-86" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-80" target="KxJncgnTLOfBylVvL6hN-83">
+        <mxCell id="KxJncgnTLOfBylVvL6hN-86" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-80" target="KxJncgnTLOfBylVvL6hN-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-80" value="Monitor the Urban Redevelopment Authority (URA) Master Plan to identify areas with planned MRT lines, malls, or other government projects." style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2210" y="490" width="271.75" height="80" as="geometry" />
+          <mxGeometry x="2120" y="520" width="271.75" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KxJncgnTLOfBylVvL6hN-84" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-83" target="KxJncgnTLOfBylVvL6hN-52">
+        <mxCell id="KxJncgnTLOfBylVvL6hN-84" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.689;entryY=1.006;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryPerimeter=0;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-83" target="KxJncgnTLOfBylVvL6hN-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-83" value="Minimize depreciation&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2170" y="370" width="104" height="50" as="geometry" />
+          <mxGeometry x="2410" y="375" width="104" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KxJncgnTLOfBylVvL6hN-87" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.589;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-80" target="KxJncgnTLOfBylVvL6hN-79">
+        <mxCell id="KxJncgnTLOfBylVvL6hN-87" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.589;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-80" target="KxJncgnTLOfBylVvL6hN-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-89" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-88" target="KxJncgnTLOfBylVvL6hN-74">
@@ -421,7 +420,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KxJncgnTLOfBylVvL6hN-90" value="Do not buy 1 room flat type" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2630" y="560" width="200" height="50" as="geometry" />
+          <mxGeometry x="2810" y="590" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KxJncgnTLOfBylVvL6hN-98" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-93" target="KxJncgnTLOfBylVvL6hN-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KxJncgnTLOfBylVvL6hN-93" value="Rent out rooms to tenants" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="590" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KxJncgnTLOfBylVvL6hN-94" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-93" target="KxJncgnTLOfBylVvL6hN-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2740" y="570" as="sourcePoint" />
+            <mxPoint x="2820" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KxJncgnTLOfBylVvL6hN-97" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="KxJncgnTLOfBylVvL6hN-96" target="KxJncgnTLOfBylVvL6hN-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KxJncgnTLOfBylVvL6hN-96" value="Prioritise maintenance of HDB&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2490" y="480" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
