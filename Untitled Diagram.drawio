@@ -1,17 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="19d8dcba-68ad-dc05-1034-9cf7b2a963f6">
-    <mxGraphModel dx="1507" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1695" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="218ae93e1282097f-24" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=10;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="868" y="750" width="124" height="130" as="geometry" />
+          <mxGeometry x="998" y="840" width="124" height="130" as="geometry" />
         </mxCell>
         <mxCell id="218ae93e1282097f-67" value="Count number of public amenities within a radius of 3Km" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;comic=0;fontFamily=Verdana;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="884" y="780" width="90" height="25" as="geometry" />
+          <mxGeometry x="1014" y="870" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="218ae93e1282097f-69" value="count number of routes connecting all amenities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;comic=0;fontFamily=Verdana;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="884" y="840" width="90" height="25" as="geometry" />
+          <mxGeometry x="1014" y="930" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="6257edae8c83ed4a-9" value="Optimize future outlook" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="642" y="210" width="200" height="50" as="geometry" />
@@ -35,40 +35,40 @@
           <mxGeometry x="1002" y="320" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x4HcTvrEBQ7sZUDVJvWk-19" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=10;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1150.5" y="750" width="223" height="80" as="geometry" />
+          <mxGeometry x="1280.5" y="840" width="223" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x4HcTvrEBQ7sZUDVJvWk-20" value="Invest as soon as possible" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;comic=0;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1166.5" y="780" width="90" height="25" as="geometry" />
+          <mxGeometry x="1296.5" y="870" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="x4HcTvrEBQ7sZUDVJvWk-21" value="ballot for multiple locations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;comic=0;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1266.5" y="780" width="90" height="25" as="geometry" />
+          <mxGeometry x="1396.5" y="870" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="x4HcTvrEBQ7sZUDVJvWk-29" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=10;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="982" y="750" width="124" height="130" as="geometry" />
+          <mxGeometry x="1112" y="840" width="124" height="130" as="geometry" />
         </mxCell>
         <mxCell id="x4HcTvrEBQ7sZUDVJvWk-30" value="Conduct decibel time study onsite for 1 week" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;comic=0;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="992" y="780" width="90" height="25" as="geometry" />
+          <mxGeometry x="1122" y="870" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="x4HcTvrEBQ7sZUDVJvWk-34" value="Minimize depreciation&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=12;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="538" y="320" width="104" height="50" as="geometry" />
         </mxCell>
         <mxCell id="x4HcTvrEBQ7sZUDVJvWk-38" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=10;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="750" width="124" height="80" as="geometry" />
+          <mxGeometry x="660" y="840" width="124" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x4HcTvrEBQ7sZUDVJvWk-39" value="compare remaining lease years between property and choose the highest" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;comic=0;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="547" y="780" width="90" height="25" as="geometry" />
+          <mxGeometry x="677" y="870" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="x4HcTvrEBQ7sZUDVJvWk-41" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;align=center;fontSize=10;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="682" y="750" width="124" height="130" as="geometry" />
+          <mxGeometry x="812" y="840" width="124" height="130" as="geometry" />
         </mxCell>
         <mxCell id="x4HcTvrEBQ7sZUDVJvWk-42" value="count number of development plans within a radius of 5Km" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;comic=0;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="699" y="780" width="90" height="25" as="geometry" />
+          <mxGeometry x="829" y="870" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="x4HcTvrEBQ7sZUDVJvWk-43" value="count number of surrounding empty state land that maybe developed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;comic=0;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="698" y="850" width="90" height="25" as="geometry" />
+          <mxGeometry x="828" y="940" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="x4HcTvrEBQ7sZUDVJvWk-48" value="ensure smell pollution does not encroach into property" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=0;comic=0;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="994" y="840" width="90" height="25" as="geometry" />
+          <mxGeometry x="1124" y="930" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="x4HcTvrEBQ7sZUDVJvWk-51" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="218ae93e1282097f-2" target="6257edae8c83ed4a-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
