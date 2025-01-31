@@ -1,110 +1,116 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Page-1" id="Uyh2agNGOFxnI0eH5UPt">
-    <mxGraphModel>
+    <mxGraphModel dx="969" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Start" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="8" y="106" width="95" height="54" as="geometry" />
+        <mxCell id="2" value="Start" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="60" y="106" width="52" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="Evaluate" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="153" y="106" width="92" height="54" as="geometry" />
+        <mxCell id="gpS-dsKcWd2mUBwiaX5d-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="gpS-dsKcWd2mUBwiaX5d-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Decision" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="295" y="30" width="113" height="113" as="geometry" />
-        </mxCell>
-        <mxCell id="5" value="Process 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="485" y="8" width="126" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="6" value="Process 2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="485" y="112" width="126" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="7" value="Process 3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="661" y="60" width="126" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="8" value="Decision" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="837" y="30" width="113" height="113" as="geometry" />
-        </mxCell>
-        <mxCell id="9" value="Process 4" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1028" y="39" width="126" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="10" value="Process 5" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1028" y="173" width="126" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="11" value="Close Loop" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1203" y="39" width="107" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="2" target="3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+        <mxCell id="gpS-dsKcWd2mUBwiaX5d-37" value="Actual Temperature" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gpS-dsKcWd2mUBwiaX5d-36">
+          <mxGeometry x="-0.2046" y="-3" relative="1" as="geometry">
+            <mxPoint x="44" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=0;entryX=0;entryY=0.5;" edge="1" parent="1" source="3" target="4">
+        <mxCell id="3" value="Arduino Mega 2560&#xa;Controller" style="rounded=0;arcSize=20;strokeWidth=2" parent="1" vertex="1">
+          <mxGeometry x="140" y="106" width="127" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Temperature Reached?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="360" y="84" width="110" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Stop heating if temperature within tolerance for set time" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="520" y="30" width="126" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Continue heating" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="520" y="130" width="126" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Heating Element" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="680" y="59.5" width="126" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Thermistor Sensor Data" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="344" y="200" width="126" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Heated Water" style="rounded=0;arcSize=20;strokeWidth=2" parent="1" vertex="1">
+          <mxGeometry x="840" y="59.5" width="107" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;exitDx=0;exitDy=0;" parent="1" source="3" target="4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="270" y="87" />
+              <mxPoint x="350" y="140" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="14" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.23;entryX=0;entryY=0.5;" edge="1" parent="1" source="4" target="5">
+        <mxCell id="gpS-dsKcWd2mUBwiaX5d-34" value="Temperature&lt;br&gt;Delta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="13">
+          <mxGeometry x="-0.0407" y="2" relative="1" as="geometry">
+            <mxPoint y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.23;entryX=0;entryY=0.5;" parent="1" source="4" target="5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="447" y="35" />
+              <mxPoint x="462" y="60" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="15" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=0;entryY=0.5;" edge="1" parent="1" source="4" target="6">
+        <mxCell id="15" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=0;entryY=0.5;" parent="1" source="4" target="6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="447" y="139" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.14;entryY=0;" edge="1" parent="1" source="5" target="7">
+        <mxCell id="16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.14;entryY=0;" parent="1" source="5" target="7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="636" y="35" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.14;entryY=1;" edge="1" parent="1" source="6" target="7">
+        <mxCell id="17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.14;entryY=1;" parent="1" source="6" target="7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="636" y="139" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="7" target="8">
+        <mxCell id="18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" source="7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="837.0000000000002" y="86.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="19" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.39;entryX=0;entryY=0.49;" edge="1" parent="1" source="8" target="9">
+        <mxCell id="20" value="Temperature" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="11" target="10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="989" y="66" />
+              <mxPoint x="710" y="227" />
             </Array>
+            <mxPoint x="926.3488372093025" y="110.15116279069775" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="20" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.86;entryX=0.02;entryY=0;" edge="1" parent="1" source="8" target="10">
+        <mxCell id="22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="10" target="3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="989" y="154" />
+              <mxPoint x="250" y="240" />
+              <mxPoint x="220" y="200" />
             </Array>
+            <mxPoint x="105" y="146.2499999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;" edge="1" parent="1" source="9" target="11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+        <mxCell id="gpS-dsKcWd2mUBwiaX5d-28" value="Analog Resistance Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="22">
+          <mxGeometry x="-0.1434" y="-2" relative="1" as="geometry">
+            <mxPoint x="3" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.75;entryY=1;" edge="1" parent="1" source="10" target="3">
+        <mxCell id="gpS-dsKcWd2mUBwiaX5d-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="3">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="989" y="216" />
-              <mxPoint x="270" y="216" />
-            </Array>
+            <mxPoint x="119.99999999999886" y="133" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gpS-dsKcWd2mUBwiaX5d-35" value="7-Segment Display" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="140" y="5.5" width="127" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
